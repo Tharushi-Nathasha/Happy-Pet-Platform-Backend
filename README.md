@@ -1,7 +1,3 @@
-# Happy-Pet-Platform-Backend
-This is the backend of Happy Pet, a pet adoption, purchase, and matchmaking web platform. Developed with Spring Boot and MySQL, the backend handles user management, pet listings, adoption applications, and database operations through secure RESTful APIs.
-# 🐾 Happy Pet Platform - Backend
-
 Welcome to the backend of the **Happy Pet** platform — a web application where users can adopt pets, buy pets, and even match pets for breeding. This backend provides all the core functionalities and APIs needed to support these features.
 
 ---
